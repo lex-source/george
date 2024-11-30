@@ -1,0 +1,213 @@
+<html>
+<head> <title> TLE-ICT 9</title> </head>
+<body bgcolor="#A67B5B">
+<h1 title="E-PORTFOLIO!" style="background-color:Tan; color:white; font-family:Caurier; text-align:center;">E-PORTFOLIO!🤍</h1>
+<p align="center" style="color:white; font-family:Caurier;"> Good day, and welcome. I am Georgina Amber P. Gulpany this is website created for the first quarter I had with the subject Ict. It will consist of many things that will lead you to who I am, what I have experienced and what I have learned. So sit back and enjoy🤍 </p>
+<br>
+<p align="center" style="color:white; font-family:Caurier;"> Before we begin, go ahead and feel free to put your name and occupation on the textbox. I would like to know you better. Who knows maybe we could be friends and get along🤍 </p>
+<form>
+  <label for="fname">Name or Nickname:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Occupation:</label><br>
+  <input type="text" id="lname" name="lname"> 
+</form>
+<br> <br>
+<p style="font-size:20; color:white; font-family:Courier" align="center"> WHAT YOU WILL FIND HERE🌟</p>
+<ul><p align="center" style="color:white; font-family:Caurier;">
+  <li style="color:white">About me, Here you will get to know me better. You will learn about my hobbies, interests, thoughts and more :></li>
+ <li style="color:white"> Ict lessons, this will be a compilation of all the lessons and activities we had for the first quarter of Ict.</li>
+  <li style="color:white">Reflection, In this part you will be able to read about my understanding and lessons I have learned from this quarter. And how I will use them in life</li>
+</ul>
+<p style="font-size:20; color:white; font-family:Courier" align="center"> WHAT MORE YOU CAN FIND🌟</p>
+<ul>
+<li style="color:white">Descriptions and pictures that show my personality</li>
+  <li style="color:white">My favorite songs</li>
+ <li style="color:white"> Ways you can interact with this website</li>
+  <li style="color:white">Other activities we did</li>
+</ul>
+
+<h1 title="All About ME🤎 " style="background-color:Tan; color:white; font-family:Caurier; text-align:center;">All About Me🤎 </h1>
+<p align="center" style="color:white; font-family:Caurier;"> Hi I am Georgina Amber P. Gulpany, I am currently 15 years old. My hobbies are reading, journaling,debating,swimming and listening to music. I also have interests in traveling, business and philosophy. I like self learning, and am mostly the type of person that prefers to be alone. My favorite foods are fish and chips, peporoni pizza, egg, and palabok. Ever since I was young I have always been so curious, I always liked to ask why and I still do so up until now. </p>
+<p align="center" style="color:white; font-family:Caurier;"> I also really loved to talk and learn about the past. I like history, I like the idea of learning from the mistakes then that we can stop now. I also take an interest in reading, for me its such a beautful way to learn. Its peaceful to have the feeling of realization and knowing you will walk the steps of life with something new. I like many kinds of books but self help is my favorite genre. Ever since I was young I had already had the love for business, and even had many attempts of setting my own small businesses. As I grew older I have learned to appreciate my steps in life, whether they be big or small, even those that I wouldn't have dare to take. I like how I am doing now and would like to improve more, I want to understand more things like the human mind, the trajectory of life and myself.</p>
+
+<img src="me1.jpeg" width= "300">
+<img src="me2.jpeg" width= "300">
+<img src="me3.jpeg" width= "300">
+<img src="me4.jpeg" width= "300">
+
+<div style="text-align: center;">
+<video width="500" controls>
+  <source src="chikag.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
+<br>
+<form>
+  <label for="fname">What takes your interests?:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Whats your hobbies?:</label><br>
+  <input type="text" id="lname" name="lname">
+</form>
+
+<a href=https://openlibrary.org/> My Favorite Website </a>
+<br>
+<a href=https://music.youtube.com/> My Favorite Website For Music </a>
+<br>
+<a href=https://www.instagram.com/> My Favorite Social Media App </a>
+
+
+
+
+<h1 title="Lessons🤎 " style="background-color:Tan; color:white; font-family:Caurier; text-align:center;">Lessons🤎 </h1>
+<br>
+        <table border="4" bordercolor="white">
+        <tr>
+            <th><p align="center" style="color:white; font-family:Caurier;">Lesson</p></th>
+            <th><p align="center" style="color:white; font-family:Caurier;">Learned</p></th>
+            <th><p align="center" style="color:white; font-family:Caurier;">Code and output</p></th>
+           
+        </tr>
+        <tr>
+            <td><p align="center" style="color:white; font-family:Caurier;">
+XHTML</p></td>
+            <td><p align="center" style="color:white; font-family:Caurier;">  
+Is considered, Extensible Hypertext Markup Language. The "x" came from XML. And also uses the filename ".html" This is a stricter and cleaner version of HTML and is aimed to replace it. All new web browsers support XHTML. Important terms to remember are, proper nestung, proper tag closing, elements in lowercase, one root element, qouted values, forbidden atributes and more. </p>
+</td>
+            <td><img src="CO1.jpeg" width= "300"></td>
+                    </tr>
+        <tr>
+            <td><p align="center" style="color:white; font-family:Caurier;">
+Lists</p></td>
+            <td><p align="center" style="color:white; font-family:Caurier;">  
+They are used to specify lits of information. All lists may containt one or more lists elements. There are 3 types of HTML lists, Ordered list or numbered list(ol), Unordered lists or bulleted list(ul) and Description list or definition/glossary lists(dl). You can also nest lists within lists to create a hierarchy of information, by putting unordered or ordered lists inside the first lists item tags.</p></td>
+            <td><img src="CO2.jpeg" width= "300"></td>
+            
+        </tr>
+        <tr>
+            <td><p align="center" style="color:white; font-family:Caurier;">
+Tables</p></td>
+            <td><p align="center" style="color:white; font-family:Caurier;">  
+Allows you to organize and arrange data into columns and rows. Shows us a visual tabular form. Recommended for information that is best for simpler audience and summarization. Tables allows you to divide your page into sections where you can place headers, footers and navigation links. By default tables has no borders so you need to have a value of atleast 1 for the border attribute. </p></td> 
+            <td><img src="CO3.jpeg" width= "300"></td>
+            
+        </tr>
+        <tr>
+          <td><p align="center" style="color:white; font-family:Caurier;">
+HyperLinks</p></td>
+            <td><p align="center" style="color:white; font-family:Caurier;">  
+They are reference links that allows you to navigate to another page of the same document or to another document. There are three types of hyperlinks, Absolute URL which links to a page on a different web server, Relative URL which links to a page on the same web server, annd Named Anchor which links to a different location on the same web page. To link a page on a different website you have to find first the destination file path then copy to your code to create a link.</p></td>
+            <td><img src="CO4.jpeg" width= "300"></td>
+                    </tr>
+        <tr>
+       <td><p align="center" style="color:white; font-family:Caurier;">
+Forms</p></td>
+            <td><p align="center" style="color:white; font-family:Caurier;">  
+This allows you to gather feedback to provide better service and is purposely designed for gathering information on the internet. Important for data gathering and surveys. These HTML documents are sent back to the server once user submits them. The areas on the form are called fields, text fields, or text boxes. It has two attributes, action which is responsible for indicating where the information will be passed, and Method which is responsible for indicating the way for sending the information.</p>
+</td>
+            <td><img src="CO5.jpeg" width= "300"></td>
+            
+         </tr>
+          <tr>
+<td><p align="center" style="color:white; font-family:Caurier;">
+CSS</p></td>
+            <td><p align="center" style="color:white; font-family:Caurier;">  
+CSS describes how HTML elements are to be displayed on media and saves a lot of work. The capabilities of CSS are, making your page easily updatable, position objects on the page, layer objects on the page, and create custom tags. There are many advantages of CSS such as, saves typing and development time, downloads faster due to your browser only downloading one file once and you can also have multiple link tags in one document.</p></td>
+                        
+
+
+           <br>
+        </tr>
+    </table>
+<h1 title="Activities Done And More!🤎 " style="background-color:Tan; color:white; font-family:Caurier; text-align:center;">Activites Done And More!🤎 </h1>
+
+
+    <table border="4" bordercolor="White">
+        <tr>
+            <th><p align="center" style="color:white; font-family:Caurier;"> Activity</p></th>
+            <th><p align="center" style="color:white; font-family:Caurier;"> Output</p></th>
+           
+        </tr>
+        <tr>
+            <td><p align="center" style="color:white; font-family:Caurier;">  
+This was one of the first weeks of the first quarter. During this time Miss Uminga was absent and kindly gave her time for our science project. In our science project we willl show the stages of respiration through a roleplay. Me and my groupmates had a good time during practice and were even given a good score on presentation day. </p></td>
+            <td><img src="ACT1.jpeg" width= "200"></td>
+            
+        </tr>
+        <tr>
+            <td><p align="center" style="color:white; font-family:Caurier;">  
+This was during suspension of classes because of the faulty weather. During this time the flood finally wore off somehow, which gave me a chance to focus more on my activities like the e portfolio. At this time I didnt really know what to do and begun with the background and headers. </p></td>
+            <td><img src="ACT2.jpeg" width= "200"></td>
+            
+        </tr>
+        <tr>
+            <td><p align="center" style="color:white; font-family:Caurier;">  
+This was an individual activity given to us about forms. For me it was pretty difficult and took much of my time. But it all went well because I did my best and found ways to solve different problems on my coding. For me even though this was really difficult I was still able to learn and the extension Miss Uminga gave us was really helpful.</p></td>
+            <td><img src="ACT3.jpeg" width= "200"></td>
+            
+        </tr>
+        <tr>
+          <td><p align="center" style="color:white; font-family:Caurier;">  
+There were several activities I had with my pair Rosean Parado which were pretty fun and definitely easier done together. I liked pairworks more because even if there was quite of a struggle with other activities, atleast I know I am not alone. And that we can solve it together as a pair. </p></td>
+            <td><img src="ACT4.jpeg" width= "200"></td>
+                    </tr>
+                </tr>
+    </table>
+
+<p style="font-size:20; color:white; font-family:Courier" align="center"> Want some music?🌟</p>
+<audio controls>
+  <source src="Sade.mp4" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+<br>
+<audio controls>
+  <source src="Valen.mp4" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<p style="font-size:20; color:white; font-family:Courier" align="center">Lets play some games!🌟</p>
+<p align="center" style="color:white; font-family:Caurier;">What is my favorite book genre?:</p>
+<form>
+  <input type="radio" id="html" name="fav_language" value="Classic Literature">
+  <label for="html">Classic Literature</label><br>
+  <input type="radio" id="css" name="fav_language" value="Self-Help">
+  <label for="css">Self-Help</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="Finance">
+  <label for="javascript">Finance</label>
+</form> 
+
+<p align="center" style="color:white; font-family:Caurier;">Which of all the noodle dishes is my favorite??:</p>
+<form>
+  <input type="radio" id="html" name="fav_language" value="Spaghetti">
+  <label for="html">Spaghetti</label><br>
+  <input type="radio" id="css" name="fav_language" value="Pancit">
+  <label for="css">Pancit</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="Palabok">
+  <label for="javascript">Palabok</label>
+</form> 
+
+ <p align="center" style="color:white; font-family:Caurier;">Who is my pair during HTML form activities?:</p>
+<form>
+  <input type="radio" id="html" name="fav_language" value="Rossean Parado">
+  <label for="html">Rossean Parado</label><br>
+  <input type="radio" id="css" name="fav_language" value="Shatasha Bailey">
+  <label for="css">Shatasha Bailey</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="Alexandra Loren">
+  <label for="javascript">Alexandra Loren</label>
+</form> 
+
+
+<h1 title="Reflection🤎 " style="background-color:Tan; color:white; font-family:Caurier; text-align:center;">Reflection🤎 </h1>
+<p style="font-size:28; color:white; font-family:Courier" align="center">  Last year was so full of bittersweet memories. Especially since Ict during grade 9 wasnt the most easy for me. Ict this year has thought me the basics of coding. I learned of both html and css.  I was able to learn about different attributes, values, tags and how to use them. This helped me a lot when it comes to going through the world of web development. But the most memorable lesson I learned from Ict this year was that, we really wont always be good at everything. But theres nothing wrong with trying. This year's first quarter was very interesting, I will admit that this year was pretty difficult. I wasnt easily able to adjust to the new ways of this new Ict class. And yet I was able to learn so much. I was also able to learn how to code with a time limit and understand how to use other devices. The biggest lesson I have ever learned in this class was to learn how to make the most of what you have during situations where you do not know what to do. And be ressilent, just hold on even if though times are getting harsh and it does not seem to get better. Even if I am only venturing through the first quarter of this subject I honestly have learned so many life lessons.</p>
+<br>
+<h1 title="Georgina Amber P. Gulpany" style="background-color:Tan; color:white; font-family:Caurier; text-align:center;">THANK YOU! Yours Truly, Georgina Gulpany🤍</h1>
+
+<br><br>
+<form action="/action_page.php">
+  <p style="font-size:20; color:white; font-family:Courier" align="center"><label for="w3review">Would you like to send a message or provide feedback?:></label></p>
+  <textarea id="w3review" name="w3review" rows="20" cols="50">Feel free to type here:</textarea>
+  <br>
+  <input type="submit" value="Submit">
+</form>
+</body>
+</html>
+
